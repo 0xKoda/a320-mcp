@@ -2,6 +2,8 @@
 
 Model Context Protocol (MCP) server for controlling the FlyByWire A32NX aircraft in Microsoft Flight Simulator.
 
+Warning: Early development
+
 ## Overview
 
 This MCP server provides comprehensive control over the A32NX aircraft through a standardized API, including:
